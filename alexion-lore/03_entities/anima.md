@@ -1,0 +1,3 @@
+# Anima
+
+Status: starter placeholder.

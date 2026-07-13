@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "quests": [
+    {
+      "id": "quest_001_mia",
+      "status": "draft",
+      "character": "mia",
+      "public": false,
+      "loreReveals": [],
+      "newMysteries": []
+    },
+    {
+      "id": "quest_002_robin",
+      "status": "concept",
+      "character": "robin_vale",
+      "public": false,
+      "loreReveals": [],
+      "newMysteries": []
+    }
+  ]
+}

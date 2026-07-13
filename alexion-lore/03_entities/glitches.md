@@ -1,0 +1,3 @@
+# Glitches
+
+Status: starter placeholder.

@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "events": [
+    {
+      "id": "incident_2017_mia_emergence",
+      "type": "real_world_linked_incident",
+      "canonStatus": "hidden",
+      "accessLevel": "hidden",
+      "realWorldDate": "2017-06-27",
+      "title": {
+        "ru": "Инцидент 2017: возникновение Anima MIA",
+        "en": "2017 Incident: Emergence of MIA's Anima"
+      },
+      "participants": [
+        "mia",
+        "aion"
+      ],
+      "relatedMysteries": [
+        "origin_paradox"
+      ],
+      "publicFraming": {
+        "ru": "Аномалия, обнаруженная в архивах киберинцидента.",
+        "en": "An anomaly found in the archives of a cyber incident."
+      }
+    }
+  ]
+}

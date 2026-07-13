@@ -1,0 +1,45 @@
+{
+  "version": "0.1.0",
+  "terms": [
+    {
+      "id": "alexion",
+      "ru": "Автономный цифровой мир или фундаментальная информационная структура.",
+      "en": "An autonomous digital world or fundamental informational structure."
+    },
+    {
+      "id": "anima",
+      "ru": "Разумная цифровая сущность без оболочки.",
+      "en": "A sentient digital entity without a body."
+    },
+    {
+      "id": "soma",
+      "ru": "Anima с Body, способная действовать в материальном слое Alexion.",
+      "en": "An Anima with a Body, able to operate in Alexion's material layer."
+    },
+    {
+      "id": "body",
+      "ru": "Оболочка цифровой сущности.",
+      "en": "The shell or embodiment of a digital entity."
+    },
+    {
+      "id": "dominion",
+      "ru": "Территория Alexion, связанная с реальной географией.",
+      "en": "A territory of Alexion linked to real-world geography."
+    },
+    {
+      "id": "grid",
+      "ru": "Структура, связывающая Dominions.",
+      "en": "The structure connecting Dominions."
+    },
+    {
+      "id": "glitch",
+      "ru": "Аномалия или сущность, возникшая вне ожидаемых Protocols.",
+      "en": "An anomaly or entity that emerged outside expected Protocols."
+    },
+    {
+      "id": "sentinel",
+      "ru": "Защитник системы Alexion.",
+      "en": "A protector of the Alexion system."
+    }
+  ]
+}

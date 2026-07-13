@@ -1,0 +1,3 @@
+# Sentinels
+
+Status: starter placeholder.

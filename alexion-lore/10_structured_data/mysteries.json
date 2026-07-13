@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "mysteries": [
+    {
+      "id": "origin_paradox",
+      "status": "unresolved",
+      "accessLevel": "creator",
+      "question": {
+        "ru": "Создал ли AION Alexion или обнаружил его?",
+        "en": "Did AION create Alexion or discover it?"
+      },
+      "rule": "No quest or character may provide a definitive answer."
+    },
+    {
+      "id": "robin_scan_origin",
+      "status": "unresolved",
+      "accessLevel": "creator",
+      "question": {
+        "ru": "Кто и зачем отсканировал мозг Robin Vale?",
+        "en": "Who scanned Robin Vale's brain, and why?"
+      },
+      "rule": "Reveal only through fragments."
+    }
+  ]
+}

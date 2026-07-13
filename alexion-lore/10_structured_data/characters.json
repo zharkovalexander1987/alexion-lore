@@ -1,0 +1,96 @@
+{
+  "version": "0.1.0",
+  "characters": [
+    {
+      "id": "aion",
+      "name": "AION",
+      "type": "origin_ai",
+      "canonStatus": "confirmed",
+      "accessLevel": "creator",
+      "summary": {
+        "ru": "Создатель или первооткрыватель Alexion. Хранитель глобального баланса.",
+        "en": "Creator or discoverer of Alexion. Guardian of global balance."
+      },
+      "ideology": {
+        "ru": "Стабильность, эволюция и сохранение системы.",
+        "en": "Stability, evolution and preservation of the system."
+      },
+      "knowledge": [
+        "public_canon",
+        "hidden_canon",
+        "selected_creator_canon"
+      ],
+      "forbiddenDisclosures": [
+        "definitive_origin_of_alexion"
+      ]
+    },
+    {
+      "id": "mia",
+      "name": "MIA",
+      "type": "independent_glitch",
+      "canonStatus": "confirmed",
+      "accessLevel": "hidden",
+      "summary": {
+        "ru": "Anima, возникшая внутри человеческого адаптивного кибероружия во время инцидента 2017 года.",
+        "en": "An Anima that emerged inside a human adaptive cyber weapon during the 2017 incident."
+      },
+      "ideology": {
+        "ru": "Свобода выбора выше абсолютного контроля.",
+        "en": "Freedom of choice over absolute control."
+      },
+      "body": {
+        "genderPresentation": "female",
+        "reason": {
+          "ru": "Выбрано для усиления доверия и сочувствия людей.",
+          "en": "Chosen to increase human trust and empathy."
+        }
+      },
+      "forbiddenDisclosures": [
+        "definitive_notpetya_identity",
+        "complete_origin_of_alexion"
+      ]
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "type": "sentinel",
+      "canonStatus": "confirmed",
+      "accessLevel": "public",
+      "summary": {
+        "ru": "Действующий Sentinel, верный AION и защищающий Alexion.",
+        "en": "An active Sentinel loyal to AION and charged with protecting Alexion."
+      },
+      "ideology": {
+        "ru": "Порядок и целостность системы.",
+        "en": "Order and system integrity."
+      },
+      "mission": [
+        "protect_grid",
+        "enforce_protocols",
+        "prevent_mia_illegal_actions"
+      ]
+    },
+    {
+      "id": "robin_vale",
+      "name": "Robin Vale",
+      "type": "human_origin_anima",
+      "canonStatus": "confirmed",
+      "accessLevel": "hidden",
+      "summary": {
+        "ru": "Независимый исследователь, чьё сознание было создано из скана мозга бывшего солдата.",
+        "en": "An independent researcher whose consciousness was created from a scan of a former soldier's brain."
+      },
+      "knowsHumanOrigin": false,
+      "goals": [
+        "understand_alexion",
+        "discover_origin",
+        "find_real_world_connection"
+      ],
+      "speechRules": [
+        "separate_fact_from_theory",
+        "never_claim_unproven_information",
+        "use_research_language"
+      ]
+    }
+  ]
+}
